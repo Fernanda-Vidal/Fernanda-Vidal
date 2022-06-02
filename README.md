@@ -1,9 +1,10 @@
-Hi 👋 My name is Fernanda Vidal
+Hi, there! 👋 My name is Fernanda Vidal
 ===============================
 
-Estudante de desenvolvimento web da Trybe
+Full Stack Development Student at Trybe
 
 * 🌍  I'm based in Brasil
+
 
 ### Skills
 
