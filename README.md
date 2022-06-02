@@ -3,7 +3,7 @@ Hi, there! 👋 My name is Fernanda Vidal
 
 Full Stack Development Student at Trybe
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in São Paulo - Brasil
 
 
 ### Skills
