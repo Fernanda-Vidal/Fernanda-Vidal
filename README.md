@@ -46,7 +46,7 @@ Olá 👋 Meu nome é Fernanda
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
   </div>
   <br>
   <div align="center">
