@@ -40,6 +40,8 @@
 ![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint&logoColor=purple)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai&logoColor=red)
+![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=red)
 </div>
 <br/>
 <br/>
