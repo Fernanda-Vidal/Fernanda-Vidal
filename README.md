@@ -44,9 +44,3 @@
   <div width="100%" align="center">
 <a href="http://www.github.com/Fernanda-Vidal"><img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Vidal&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="Fernanda-Vidal's GitHub stats" /></a>
   
-<br/> 
-<br/>
- <div align="center">
-  <img align="center" src="https://www.codewars.com/users/Fernanda-Vidal/badges/large" alt="codewars badge" />
-</div>
-
