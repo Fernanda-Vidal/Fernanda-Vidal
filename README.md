@@ -34,6 +34,12 @@
 ![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
+![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint&logoColor=purple)
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
 </div>
 <br/>
 <br/>
@@ -41,10 +47,7 @@
 
 <div align="center">
 <h2>Estatísticas do Github:</h2>
-
-<div>
-<img align="left" max-width="200em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&layout=compact&langs_count=7&theme=dark"/>
-
-<a href="http://www.github.com/Fernanda-Vidal"><img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Vidal&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=171717&show_icons=true" alt="Fernanda-Vidal's GitHub stats" /></a>
- </div>
-  
+ 
+<div width="100%" align="center">
+  <a href="https://github.com/Fernanda-Vidal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
+</div>
