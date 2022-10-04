@@ -1,7 +1,6 @@
 <div>
   <h1>Seja Bem-Vindo ao meu Github!</h1>
-</div>
-  
+  </div>
 <div style="display: inline_block">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vidal-de-jesus/)](https://www.linkedin.com/in/fernanda-vidal-de-jesus/) 
@@ -17,7 +16,7 @@
 <br/>
 
 <div align="center">
-<h2>🛠️ Linguagens e Ferramentas:</h2>
+<h2>Linguagens e Ferramentas:</h2>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -34,13 +33,18 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 </div>
 <br/>
 <br/>
 
+
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-  </div>
-  <div width="100%" align="center">
-<a href="http://www.github.com/Fernanda-Vidal"><img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Vidal&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="Fernanda-Vidal's GitHub stats" /></a>
+<h2>Estatísticas do Github:</h2>
+
+<div>
+<img align="left" max-width="200em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&layout=compact&langs_count=7&theme=dark"/>
+
+<a href="http://www.github.com/Fernanda-Vidal"><img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Vidal&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=171717&show_icons=true" alt="Fernanda-Vidal's GitHub stats" /></a>
+ </div>
   
