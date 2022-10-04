@@ -6,7 +6,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vidal-de-jesus/)](https://www.linkedin.com/in/fernanda-vidal-de-jesus/) 
 <img src="https://www.codewars.com/users/jhoffner/badges/micro" alt="codewars badge" />
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fevidal.dev@gmail.com)](mailto:fevidal.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fevidal.dev@gmail.com)](mailto:fevidal.dev@gmail.com)
 </div>
 
 * 🌍  Resido em São Paulo - Brasil
