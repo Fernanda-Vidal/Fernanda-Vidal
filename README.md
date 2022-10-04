@@ -27,6 +27,8 @@ Olá 👋 Meu nome é Fernanda
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 </div>
 
 <!-- ### Skills -->
@@ -63,6 +65,7 @@ Olá 👋 Meu nome é Fernanda
   <img align="center" src="https://www.codewars.com/users/Fernanda-Vidal/badges/large" alt="codewars badge" />
 </div>
 <br/>
+
 
 <!-- <b>My GitHub Stats</b> -->
 <!-- <a href="http://www.github.com/Fernanda-Vidal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernanda-Vidal&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div> -->
