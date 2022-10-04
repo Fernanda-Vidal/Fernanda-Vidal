@@ -17,7 +17,7 @@
 
 <div align="center">
 <h2>Sobre mim:</h2>
-Em transição de carreira da área de gestão de seguros para a área de tecnologia. Atualmente como desenvolvedora Front End, tenho trilhado esta jornada de aprendizado junto à Trybe e acumulado novos conhecimentos.
+Em transição de carreira e apaixonada por tecnologia, viciei em programar! Atualmente como desenvolvedora Front End, tenho trilhado esta jornada de aprendizado junto à Trybe e acumulado novos conhecimentos.
 Por ser apaixonada por aprender, sigo em busca de novos e maiores desafios.
 
 
