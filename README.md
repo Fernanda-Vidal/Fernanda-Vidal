@@ -12,7 +12,6 @@
 * 🚀  Estudante de desenvolvimento Full Stack na Trybe
 * 🌱  Atualmente estudo TypeScript
 * 🖥️  Veja meu portfólio em [https://fernanda-vidal.github.io](http://Fernanda-Vidal.github.io)
-<br/>
 
 <div align="center">
 <h2>Sobre mim:</h2>
