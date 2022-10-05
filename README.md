@@ -13,7 +13,6 @@
 * 🌱  Atualmente estudo TypeScript
 * 🖥️  Veja meu portfólio em [https://fernanda-vidal.github.io](http://Fernanda-Vidal.github.io)
 <br/>
-<br/>
 
 <div align="center">
 <h2>Sobre mim:</h2>
@@ -49,7 +48,6 @@ Por ser apaixonada por aprender, sigo em busca de novos e maiores desafios.
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai&logoColor=red)
 ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=red)
 </div>
-<br/>
 <br/>
 
 
