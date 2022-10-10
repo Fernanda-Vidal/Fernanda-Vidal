@@ -10,7 +10,7 @@
 
 * 🌍  Resido em São Paulo - Brasil
 * 🚀  Estudante de desenvolvimento Full Stack na Trybe
-* 🌱  Atualmente estudo TypeScript
+* 🌱  Atualmente estudo POO 🚀
 * 🖥️  Veja meu portfólio em [https://fernanda-vidal.github.io](http://Fernanda-Vidal.github.io)
 
 <div align="center">
