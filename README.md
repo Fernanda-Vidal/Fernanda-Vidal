@@ -1,7 +1,7 @@
 <div>
   <h1>Seja Bem-Vindo ao meu Github!</h1>
   </div>
-<div style="display: inline_block">
+<div style="display: inline">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vidal-de-jesus/)](https://www.linkedin.com/in/fernanda-vidal-de-jesus/) 
 <a href="https://www.codewars.com/users/Fernanda-Vidal"><img src="https://www.codewars.com/users/jhoffner/badges/micro" alt="codewars badge" /></a>
