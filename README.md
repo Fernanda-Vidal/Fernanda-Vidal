@@ -21,15 +21,17 @@ Por ser apaixonada por aprender, sigo em busca de novos e maiores desafios.
 
 <div align="center">
 <h2>Ferramentas:</h2>
-  
+
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue) 
 ![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)  
+ 
   
   <h2>Front-end:</h2>
 
