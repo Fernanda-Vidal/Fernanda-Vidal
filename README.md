@@ -56,6 +56,7 @@ E essa brevíssima descrição não define nem uma fração do que eu gosto de c
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/-Sinon-black?style=flat-square&logo=sinon)
 ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=red)
 </div>
 
