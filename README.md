@@ -11,7 +11,7 @@
 
 * 🌍  Resido em São Paulo - Brasil
 * 🚀  Estudante de desenvolvimento Full Stack na Trybe
-* 🌱  Atualmente estudo Typescript e POO 🚀
+* 🌱  Atualmente estudo Typescript, POO, SOLID e MongoDB 🚀
 
 <div align="center">
 <h2>Sobre mim:</h2>
