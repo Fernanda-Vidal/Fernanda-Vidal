@@ -13,11 +13,12 @@
 * 🚀  Estudante de desenvolvimento Full Stack na Trybe
 * 🌱  Atualmente estudo Typescript, POO, SOLID e MongoDB 🚀
 
-<div align="center">
+<div align="justify">
 <h2>Sobre mim:</h2>
-Em transição de carreira, tenho trilhado uma árdua e desafiadora jornada de aprendizado junto à Trybe na área de desenvolvimento web. Me apaixonei pela área de tecnologia e viciei em programar!
-Tenho descoberto na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). Ainda tenho muito pra melhorar, mas estou muito animada por seguir nesta trilha.
-Sou apaixonada por aprender, então sigo em busca de novos e maiores desafios.
+Em transição de carreira, tenho trilhado uma árdua e desafiadora jornada de aprendizado de desenvolvimento web junto à Trybe. Me apaixonei pela área de tecnologia e viciei em programar!
+Tenho descoberto na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). Ainda tenho muito pra melhorar, mas estou animada por seguir nesta trilha.
+Aleatoridades? Amo ler e assistir coisas repetidas por lazer. Sou bastante focada e determinada! Quando algo tem propósito para mim, não vejo as horas passarem. Tenho muito prazer no processo de aprendizagem. Não tenho medo de mudanças. Sou mãe de um casal de gêmeos que são a minha motivação diária para me tornar um ser humano melhor.
+E essa brevíssima descrição não define nem uma fração do que eu gosto de contar quando me pedem para falar sobre mim.
 
 
 <div align="center">
