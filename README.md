@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vidal-de-jesus/)](https://www.linkedin.com/in/fernanda-vidal-de-jesus/) 
 <a href="https://www.codewars.com/users/Fernanda-Vidal"><img src="https://www.codewars.com/users/jhoffner/badges/micro" alt="codewars badge" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fevidal.dev@gmail.com)](mailto:fevidal.dev@gmail.com)
-[![SKOOB Badge](https://img.shields.io/badge/-SKOOB-3b87bf?style=flat-square&logo=SKOOB&logoColor=white&link=[https://www.linkedin.com/in/fernanda-vidal-de-jesus](https://www.skoob.com.br/usuario/4412633-fernandavidal)/)](https://www.skoob.com.br/usuario/4412633-fernandavidal)
+[![SKOOB Badge](https://img.shields.io/badge/-SKOOB-3982bc?style=flat-square&logo=SKOOB&logoColor=white&link=[https://www.linkedin.com/in/fernanda-vidal-de-jesus](https://www.skoob.com.br/usuario/4412633-fernandavidal)/)](https://www.skoob.com.br/usuario/4412633-fernandavidal)
 </div>
 
 * 🌍  Resido em São Paulo - Brasil
