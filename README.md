@@ -15,8 +15,9 @@
 
 <div align="center">
 <h2>Sobre mim:</h2>
-Em transição de carreira, me apaixonei pela área de tecnologia e viciei em programar! Atualmente como desenvolvedora Front End, tenho trilhado esta jornada de aprendizado junto à Trybe e acumulado novos conhecimentos.
-Por ser apaixonada por aprender, sigo em busca de novos e maiores desafios.
+Em transição de carreira, tenho trilhado uma árdua e desafiadora jornada de aprendizado junto à Trybe na área de desenvolvimento web. Me apaixonei pela área de tecnologia e viciei em programar!
+Tenho descoberto na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). Ainda tenho muito pra melhorar, mas estou muito animada por seguir nesta trilha.
+Sou apaixonada por aprender, então sigo em busca de novos e maiores desafios.
 
 
 <div align="center">
