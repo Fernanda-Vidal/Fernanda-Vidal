@@ -45,7 +45,7 @@ E essa brevíssima descrição não define nem uma fração do que eu gosto de c
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=C295BE)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=flat-square&logo=mongodb)
 ![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
