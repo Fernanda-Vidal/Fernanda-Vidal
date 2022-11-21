@@ -50,6 +50,7 @@ E essa brevíssima descrição não define nem uma fração do que eu gosto de c
 ![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
   
   <h2>Testes:</h2>
