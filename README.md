@@ -67,5 +67,5 @@ E essa brevíssima descrição não define nem uma fração do que eu gosto de c
  
 
 <div width="100%" align="center">
-  <a href="https://github.com/Fernanda-Vidal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Vidal&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
+  <a href="https://github.com/Fernanda-Vidal" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fernanda-Vidal&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
 </div>
