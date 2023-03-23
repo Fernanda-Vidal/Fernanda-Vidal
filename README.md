@@ -18,7 +18,7 @@
 <p>
 Tenho descoberto na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). E desenvolvê-las a ponto de poder criar coisas incríveis!!!
   
-Não há limites!!!
+Sinto que não há limites!!!
   
 Após a conclusão do meu primeiro curso de desenvolvimento full stack eu sinto que ~~[estou totalmente preparada]~~ preciso continuar estudando e me aprofundando mais e mais neste universo infinito e maravilhoso. 
 
