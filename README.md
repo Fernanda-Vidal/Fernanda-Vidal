@@ -11,7 +11,6 @@
 
 * 🌍  Resido em São Paulo - Brasil
 * 🚀  Estudante de desenvolvimento Full Stack na Trybe
-* 🌱  Atualmente estudo Python 🚀
 
 <div align="justify">
 <h2>Sobre mim:</h2>
