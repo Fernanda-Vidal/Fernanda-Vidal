@@ -10,7 +10,7 @@
 </div>
 
 * 🌍  Resido em São Paulo - Brasil
-* 🚀  Estudante de desenvolvimento Full Stack na Trybe
+* 🚀  Desenvolvedora Full Stack na Trybe
 
 <div align="justify">
 <h2>Sobre mim:</h2>
