@@ -11,6 +11,7 @@
 
 * 🌍  Resido em São Paulo - Brasil
 * 🚀  Desenvolvedora Full Stack
+* Atualmente estudo Java
 
 <div align="justify">
 <h2>Sobre mim:</h2>
