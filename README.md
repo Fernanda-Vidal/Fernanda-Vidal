@@ -16,7 +16,7 @@
 <div align="justify">
 <h2>Sobre mim:</h2>
 <p>
-Tenho descoberto na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). E desenvolvê-las a ponto de poder criar coisas incríveis!!!
+Tenho na programação uma possibilidade de expressar as habilidades que eu desenvolvi no decorrer da minha vida, como organização, resolução de problemas e, até mesmo, comunicação (porque não?). E desenvolvê-las a ponto de poder criar coisas incríveis!!!
   
 Sinto que não há limites!!!
   
