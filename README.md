@@ -20,7 +20,7 @@ Tenho na programação uma possibilidade de expressar as habilidades que eu dese
   
 Sinto que não há limites!!!
   
-Após a conclusão do meu primeiro curso de desenvolvimento full stack eu sinto que ~~[estou totalmente preparada]~~ preciso continuar estudando e me aprofundando mais e mais neste universo infinito e maravilhoso. 
+Após a cdonclusão do meu primeiro curso de desenvolvimento full stack eu sinto que ~~[estou totalmente preparada]~~ preciso continuar estudando e me aprofundando mais e mais neste universo infinito e maravilhoso. 
 
 A boa notícia [pra mim] é que eu amo!
   
