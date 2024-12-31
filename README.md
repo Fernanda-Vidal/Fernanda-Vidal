@@ -10,8 +10,8 @@
 </div>
 
 * 🌍  Resido em São Paulo - Brasil
-* 🚀  Desenvolvedora Full Stack
-* 🌱  Atualmente estudo Java
+* 🚀  Desenvolvedora Full Stack - Mobile
+* 🌱  Atualmente estudo [ Node | CI/CD | Cloud | Flutter ]
 
 <div align="justify">
 <h2>Sobre mim:</h2>
